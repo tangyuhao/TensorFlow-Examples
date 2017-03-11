@@ -100,7 +100,8 @@ The following examples are coming from [TFLearn](https://github.com/tflearn/tfle
 
 ## Dependencies
 ```
-tensorflow 1.0alpha
+python 3+
+tensorflow 1.0
 numpy
 matplotlib
 cuda
